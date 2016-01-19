@@ -1,0 +1,11 @@
+ID	GENDER
+1	m
+2	f
+3	f
+4	m
+5	m
+6	w
+7	m
+8	w
+9	w
+10	männlich
